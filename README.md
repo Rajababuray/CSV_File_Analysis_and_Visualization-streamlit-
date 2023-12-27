@@ -6,7 +6,7 @@ The CSV File Analysis and Visualization tool is a Streamlit-based application de
 ### Installation Instructions:
 1. **Clone the Repository:**
    ```
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/Rajababuray/CSV_File_Analysis_and_Visualization-streamlit-.git)
+git clone https://github.com/Rajababuray/CSV_File_Analysis_and_Visualization-streamlit-.git
    cd your-repo
    ```
 
